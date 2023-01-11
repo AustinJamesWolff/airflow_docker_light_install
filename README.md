@@ -33,4 +33,4 @@ docker-compose up airflow-init
 docker-compose up
 ```
 
-6. Yo ushould be able to visit localhost:8080 and sign into the Airflow UI with the username and password: airflow
+6. You should be able to visit localhost:8080 and sign into the Airflow UI with the username and password: airflow
